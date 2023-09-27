@@ -7,13 +7,11 @@ public:
             for(int j =i+1 ; j<nums.size();j++){
                 if(nums[i]+nums[j]==target)
                 {
-                    Output.push_back(i);
-                    Output.push_back(j);
-                    return Output;
+                    return {i,j};
                 }
            }
        } 
-               return Output;
+               return {};
 
     }
 };
