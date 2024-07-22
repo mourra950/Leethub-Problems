@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/mourra950/Leethub-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mourra950/Leethub-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mourra950/Leethub-Problems/tree/master/0066-plus-one) |
+| [2058-concatenation-of-array](https://github.com/mourra950/Leethub-Problems/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -37,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mourra950/Leethub-Problems/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/mourra950/Leethub-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
