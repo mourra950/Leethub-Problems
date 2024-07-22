@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/3379-score-of-a-string) |
 ## Sorting
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mourra950/Leethub-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mourra950/Leethub-Problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/mourra950/Leethub-Problems/tree/master/2058-concatenation-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
