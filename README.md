@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
