@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mourra950/Leethub-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mourra950/Leethub-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
