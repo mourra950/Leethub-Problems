@@ -9,8 +9,9 @@ public:
                 continue;
             else
             {
-                nums[counter++]=nums[i];
+                nums[counter]=nums[i];
                 current=nums[i];
+                ++counter;
             }
         }
        return counter;
