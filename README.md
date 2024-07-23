@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/mourra950/Leethub-Problems/tree/master/0066-plus-one) |
 | [2058-concatenation-of-array](https://github.com/mourra950/Leethub-Problems/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mourra950/Leethub-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/mourra950/Leethub-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mourra950/Leethub-Problems/tree/master/0069-sqrtx) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mourra950/Leethub-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
