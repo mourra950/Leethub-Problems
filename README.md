@@ -10,12 +10,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/mourra950/Leethub-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mourra950/Leethub-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mourra950/Leethub-Problems/tree/master/0066-plus-one) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2058-concatenation-of-array](https://github.com/mourra950/Leethub-Problems/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mourra950/Leethub-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
