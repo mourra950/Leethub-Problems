@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mourra950/Leethub-Problems/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/mourra950/Leethub-Problems/tree/master/0344-reverse-string) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/3379-score-of-a-string) |
 ## Sorting
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mourra950/Leethub-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mourra950/Leethub-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/mourra950/Leethub-Problems/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
