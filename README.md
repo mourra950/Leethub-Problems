@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 ## String
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mourra950/Leethub-Problems/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mourra950/Leethub-Problems/tree/master/0344-reverse-string) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/3379-score-of-a-string) |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
