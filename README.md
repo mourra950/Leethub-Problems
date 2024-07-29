@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2058-concatenation-of-array](https://github.com/mourra950/Leethub-Problems/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/mourra950/Leethub-Problems/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mourra950/Leethub-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mourra950/Leethub-Problems/tree/master/0344-reverse-string) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/mourra950/Leethub-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
