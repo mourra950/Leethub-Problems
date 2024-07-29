@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mourra950/Leethub-Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mourra950/Leethub-Problems/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2058-concatenation-of-array](https://github.com/mourra950/Leethub-Problems/tree/master/2058-concatenation-of-array) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mourra950/Leethub-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
 ## String
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mourra950/Leethub-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/mourra950/Leethub-Problems/tree/master/2502-sort-the-people) |
@@ -73,10 +76,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -85,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -93,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
 ## Database
 |  |
@@ -100,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/mourra950/Leethub-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/mourra950/Leethub-Problems/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mourra950/Leethub-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mourra950/Leethub-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
