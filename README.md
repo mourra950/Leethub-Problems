@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mourra950/Leethub-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mourra950/Leethub-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mourra950/Leethub-Problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/mourra950/Leethub-Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/mourra950/Leethub-Problems/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mourra950/Leethub-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mourra950/Leethub-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mourra950/Leethub-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/mourra950/Leethub-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mourra950/Leethub-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mourra950/Leethub-Problems/tree/master/0344-reverse-string) |
@@ -35,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mourra950/Leethub-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mourra950/Leethub-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mourra950/Leethub-Problems/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/mourra950/Leethub-Problems/tree/master/0948-sort-an-array) |
